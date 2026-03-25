@@ -1,15 +1,8 @@
-## 🌐 Connect with me
+
 ## 🌐 My Work
 
-<p align="center">
-  <a href="https://portfolio-ten-henna-l388c8l4pw.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://talent-bridge-secure-enterprise-ful.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="TalentBridge"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?logo=vercel)](https://portfolio-ten-henna-l388c8l4pw.vercel.app/)
+[![TalentBridge](https://img.shields.io/badge/TalentBridge-Project-blue?logo=github)](https://talent-bridge-secure-enterprise-ful.vercel.app/)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Thotapelli Ruthwik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthwik-thotapelli) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ ruthwik thotapelli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruthwikthotapelli8@gmail.com) 
 

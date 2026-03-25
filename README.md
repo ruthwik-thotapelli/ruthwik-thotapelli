@@ -1,4 +1,8 @@
+## 🌐 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thotapelli%20Ruthwik-blue?logo=linkedin)](https://linkedin.com/in/ruthwik-thotapelli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel)](https://portfolio-ten-henna-1388c84pw.vercel.app/)
+[![TalentBridge](https://img.shields.io/badge/Project-TalentBridge-green?logo=github)](https://talent-bridge-secure-enterprise-full.vercel.app/)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Thotapelli Ruthwik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthwik-thotapelli) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ ruthwik thotapelli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruthwikthotapelli8@gmail.com) 
 

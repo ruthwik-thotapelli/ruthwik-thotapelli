@@ -7,7 +7,6 @@
 ---
 
 ## 🚀 About Me  
-💡 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 I am a passionate Full Stack Developer with a strong focus on building scalable, secure, and production-ready applications.  
 
 I specialize in developing end-to-end solutions using modern technologies like React.js, Node.js, and cloud-based DevOps tools, ensuring performance, reliability, and clean architecture.  

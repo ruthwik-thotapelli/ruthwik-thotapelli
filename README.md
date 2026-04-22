@@ -1,5 +1,16 @@
+🚀 About Me  
 
-## 🌐 My Work
+🎓 B.Tech Information Technology student at Lovely Professional University, building a strong foundation in software engineering and system design  
+
+💡 Passionate about crafting scalable, production-ready applications with a focus on Full Stack Development and DevOps/Cloud  
+
+🛠️ Developed impactful projects like TalentBridge (enterprise-grade hiring platform with role-based access and ATS system) and CloudForge (production-ready AWS CI/CD infrastructure with Docker and automation)  
+
+⚡ Hands-on experience with React.js, Node.js, Express, MySQL, Docker, and AWS, along with building secure REST APIs and deployment pipelines  
+
+📚 Focused on writing clean, maintainable code, mastering core concepts deeply, and solving real-world engineering problems  
+
+🎯 Goal: To become a high-impact Software Engineer capable of designing scalable systems and delivering real-world business value 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?logo=vercel)](https://portfolio-ten-henna-l388c8l4pw.vercel.app/)
 [![TalentBridge](https://img.shields.io/badge/TalentBridge-Project-blue?logo=github)](https://talent-bridge-secure-enterprise-ful.vercel.app/)

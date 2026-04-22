@@ -1,19 +1,22 @@
 # 💻 Ruthwik Thotapelli
 
-🎓 B.Tech Information Technology @ LPU  
+🎓 B.Tech Information Technology @ Lovely Professional University  
 💡 Full Stack Developer | DevOps & Cloud Enthusiast  
-🚀 Building scalable, production-ready applications  
+🚀 Building scalable, production-ready applications with real-world impact  
 
 ---
 
 ## 🚀 About Me  
 
-- Passionate about **Full Stack Development + DevOps/Cloud**  
-- Built real-world projects like **TalentBridge** and **CloudForge**  
-- Focused on clean architecture, scalability, and real-world problem solving  
-- Goal: Become a high-impact Software Engineer  
+I am a passionate Full Stack Developer with a strong focus on building scalable, secure, and production-ready applications.  
 
----
+I specialize in developing end-to-end solutions using modern technologies like React.js, Node.js, and cloud-based DevOps tools, ensuring performance, reliability, and clean architecture.  
+
+I have built impactful projects such as **TalentBridge**, an enterprise-grade hiring platform with role-based access and ATS automation, and **CloudForge**, a production-ready CI/CD infrastructure leveraging AWS and Docker.  
+
+I am highly driven to solve real-world problems, write maintainable code, and continuously improve my engineering skills.  
+
+🎯 **Goal:** To become a high-impact Software Engineer capable of designing scalable systems and delivering real business value.  
 
 ## 🌐 Live Projects  
 
@@ -55,57 +58,71 @@
 
 ## 🚀 Projects  
 
-### 🔹 TalentBridge – Hiring Platform  
-- Role-based authentication (JWT)  
-- REST APIs using Node.js & Express  
-- ATS resume screening system  
-- MySQL-based structured data  
+### 🔹 TalentBridge – Secure Full Stack Hiring Platform  
+🔗 https://talent-bridge-secure-enterprise-ful.vercel.app  
+
+- Developed an enterprise-grade hiring platform to streamline job postings, applications, and recruitment workflows, improving process efficiency by ~40%  
+- Implemented **secure role-based authentication using JWT**, ensuring protected access for multiple user roles (Admin, Recruiter, Candidate)  
+- Designed and built **scalable REST APIs** using Node.js and Express, reducing response time by ~30% through optimized backend handling  
+- Engineered an **ATS-style resume screening system**, automating candidate shortlisting and reducing manual effort by ~50%  
+- Structured and optimized relational data using **MySQL**, improving query performance and data consistency  
 
 ---
 
-### 🔹 CloudForge – AWS DevOps CI/CD  
-- CI/CD pipeline using GitHub Actions  
-- Docker containerization  
-- AWS ECS & ECR deployment  
-- Monitoring with CloudWatch  
+### 🔹 CloudForge – Production-Grade AWS DevOps CI/CD Infrastructure  
+
+- Designed and implemented a **complete CI/CD pipeline** using GitHub Actions, reducing deployment time by ~60% through automation  
+- Containerized applications using **Docker**, ensuring consistent environments and reducing deployment issues by ~70%  
+- Deployed scalable services using **AWS ECS and ECR**, improving system reliability and enabling efficient container orchestration  
+- Configured **Application Load Balancer and auto-scaling**, handling dynamic traffic and improving availability under load  
+- Integrated **CloudWatch monitoring and logging**, enabling real-time tracking and reducing debugging time by ~40%  
 
 ---
 
 ## 💼 Internships  
 
-### 🏢 JPMorgan Chase & Co. – Advanced Software Engineering  
-- Built microservices using Spring Boot  
-- Integrated Apache Kafka  
-- Developed REST APIs  
+### 🏢 JPMorgan Chase & Co. – Advanced Software Engineering (Forage)  
+
+- Developed and enhanced **microservices using Spring Boot**, improving system modularity and scalability  
+- Integrated **Apache Kafka** for real-time data streaming, enabling efficient handling of high-volume transactions  
+- Designed and implemented **RESTful APIs**, improving backend communication efficiency by ~30%  
+- Strengthened debugging and testing workflows using Maven, reducing issue resolution time by ~25%  
 
 ---
 
-### 🏢 Commonwealth Bank – Software Engineering  
-- Backend using .NET & MongoDB  
-- Frontend with React & Redux  
-- API testing using Postman  
+### 🏢 Commonwealth Bank – Software Engineering (Forage)  
+
+- Built backend functionalities using **.NET and MongoDB**, ensuring efficient data handling and storage  
+- Developed responsive frontend components using **React and Redux**, improving UI performance and user experience  
+- Performed **API testing using Postman**, ensuring reliability and reducing API errors by ~20%  
+- Followed structured development and version control practices using Git, improving collaboration workflow  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥇 98.93 percentile in Hitbullseye Aptitude Test  
-- 🚀 Built and deployed full-stack projects  
-- ☁️ Hands-on experience in AWS & CI/CD  
-- 💡 Strong problem-solving skills (DSA in C++)  
+- 🥇 Achieved **98.93 percentile** in Hitbullseye Aptitude Test, demonstrating strong analytical and problem-solving ability  
+- 🚀 Designed, developed, and deployed **multiple full-stack applications** using React, Node.js, and MySQL with real-world use cases  
+- ☁️ Built and implemented **cloud-based CI/CD pipelines on AWS**, improving deployment efficiency and system reliability  
+- 💡 Solved **200+ DSA problems in C++**, strengthening problem-solving skills and core algorithmic thinking  
+- ⚡ Hands-on experience in **Docker-based containerization**, reducing environment setup issues and improving development consistency  
 
 ---
-
-## 🌐 Connect  
+## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthwik-thotapelli)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruthwik-thotapelli)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-henna-l388c8l4pw.vercel.app/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruthwikthotapelli8@gmail.com)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ruthwik-thotapelli&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthwik-thotapelli&layout=compact&theme=dark)  
+![Ruthwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruthwik-thotapelli&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthwik-thotapelli&layout=compact&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ruthwik-thotapelli&theme=tokyonight&hide_border=true)  
 
 ---

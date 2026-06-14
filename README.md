@@ -66,7 +66,7 @@ I am highly driven to solve real-world problems, write maintainable code, and co
 ## 🚀 Projects  
 
 ### 🔹 TalentBridge: Secure Enterprise Full-Stack Hiring Platform  
-🔗 https://talent-bridge-secure-enterprise-ful.vercel.app  
+LIVE DEMO: 🔗 https://talent-bridge-secure-enterprise-ful.vercel.app  
 
 🚀 Architected and developed a secure end-to-end recruitment platform that centralizes job postings, candidate applications, and hiring workflows, eliminating fragmented hiring processes and improving operational efficiency.
 
@@ -94,12 +94,12 @@ Tech: React.js, Node.js, Express.js, MySQL, JWT, REST APIs, Postman, Git, GitHub
 
 📈 Integrated CloudWatch monitoring, centralized logging, alarms, and SNS notifications to establish end-to-end observability, proactive alerting, and faster incident detection across the deployment lifecycle.
 
-Tech: AWS (ECS, ECR, Fargate, ALB, CloudWatch, SNS, IAM), Docker, GitHub Actions, Linux, Git
+Tech: AWS (ECS Fargate, ECR, ALB, CloudWatch, SNS, IAM), Docker, GitHub Actions, CI/CD, Linux, Git, Cloud-Native Infrastructure
 ---
 
 ### 🔹Shared Expense Manager: Intelligent Expense Reconciliation & Financial Transparency Platform
 
-🔗 https://shared-expense-manager-xi.vercel.app/
+LIVE DEMO: 🔗 https://shared-expense-manager-xi.vercel.app/
 
 💸 Architected and developed a modern expense-sharing platform that enables groups to manage shared expenses, settlements, and balance reconciliation while maintaining complete transparency in financial calculations.
 

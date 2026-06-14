@@ -21,7 +21,7 @@ I am highly driven to solve real-world problems, write maintainable code, and co
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?logo=vercel&logoColor=white)](https://portfolio-ten-henna-l388c8l4pw.vercel.app/)  
 [![TalentBridge](https://img.shields.io/badge/TalentBridge-Live-blue?logo=github&logoColor=white)](https://talent-bridge-secure-enterprise-ful.vercel.app/)  
-
+[![Shared Expense Manager](https://img.shields.io/badge/Shared_Expense_Manager-Live-success?logo=vercel&logoColor=white)](https://shared-expense-manager-xi.vercel.app/)
 ---
 
 ## 🛠️ Tech Stack  
@@ -65,26 +65,67 @@ I am highly driven to solve real-world problems, write maintainable code, and co
 
 ## 🚀 Projects  
 
-### 🔹 TalentBridge – Secure Full Stack Hiring Platform  
+### 🔹 TalentBridge: Secure Enterprise Full-Stack Hiring Platform  
 🔗 https://talent-bridge-secure-enterprise-ful.vercel.app  
 
-- Developed an enterprise-grade hiring platform to streamline job postings, applications, and recruitment workflows, improving process efficiency by ~40%  
-- Implemented **secure role-based authentication using JWT**, ensuring protected access for multiple user roles (Admin, Recruiter, Candidate)  
-- Designed and built **scalable REST APIs** using Node.js and Express, reducing response time by ~30% through optimized backend handling  
-- Engineered an **ATS-style resume screening system**, automating candidate shortlisting and reducing manual effort by ~50%  
-- Structured and optimized relational data using **MySQL**, improving query performance and data consistency  
+Developed an enterprise-grade hiring platform to streamline job postings, candidate applications, and recruitment workflows, improving hiring efficiency and reducing manual processing effort.
+
+ Implemented secure role-based authentication and authorization using JWT, enabling controlled access for Admin, Recruiter, and Candidate roles while maintaining application security.
+
+ Designed and developed scalable RESTful APIs using Node.js and Express with a modular backend architecture, improving maintainability and supporting future feature expansion.
+
+ Engineered an ATS-style resume screening system to automate candidate shortlisting, significantly reducing recruiter workload and improving hiring productivity.
+
+ Built responsive and user-friendly interfaces using React.js, delivering seamless user experiences across multiple recruitment workflows.
+
+ Integrated MySQL database operations with optimized relational schema design, ensuring reliable data consistency, efficient querying, and scalable data management.
+
+ Performed API testing and validation using Postman, improving backend reliability and ensuring smooth communication between frontend and backend systems.
+
+Tech: React.js, Node.js, Express.js, MySQL, JWT, REST APIs, Postman, Git, GitHub  
 
 ---
 
-### 🔹 CloudForge – Production-Grade AWS DevOps CI/CD Infrastructure  
+### 🔹 CloudForge: Production-Grade AWS DevOps CI/CD Infrastructure
 
-- Designed and implemented a **complete CI/CD pipeline** using GitHub Actions, reducing deployment time by ~60% through automation  
-- Containerized applications using **Docker**, ensuring consistent environments and reducing deployment issues by ~70%  
-- Deployed scalable services using **AWS ECS and ECR**, improving system reliability and enabling efficient container orchestration  
-- Configured **Application Load Balancer and auto-scaling**, handling dynamic traffic and improving availability under load  
-- Integrated **CloudWatch monitoring and logging**, enabling real-time tracking and reducing debugging time by ~40%  
+ Architected and deployed a cloud-native containerized application on AWS ECS Fargate, enabling scalable and serverless container orchestration without infrastructure management overhead.
 
+ Built an end-to-end CI/CD pipeline using GitHub Actions to automate application builds, Docker image creation, Amazon ECR pushes, and ECS deployments.
+
+ Containerized applications using Docker, ensuring environment consistency, portability, and simplified deployment across development and production environments.
+
+ Configured Application Load Balancer (ALB) with health checks and intelligent traffic routing to ensure high availability, fault tolerance, and reliable service delivery.
+
+ Implemented auto-scaling policies based on infrastructure metrics, enabling dynamic scaling of container workloads under varying traffic conditions.
+
+ Integrated AWS CloudWatch monitoring, centralized logging, alarms, and SNS notifications to provide real-time observability and proactive operational alerting.
+
+ Applied DevOps best practices including infrastructure automation, continuous delivery, monitoring, and cloud-native deployment strategies.
+
+Tech: AWS (ECS, ECR, Fargate, ALB, CloudWatch, SNS, IAM), Docker, GitHub Actions, Linux, Git
 ---
+
+### 🔹Shared Expense Manager: Intelligent Expense Reconciliation & Financial Transparency Platform
+
+🔗 https://shared-expense-manager-xi.vercel.app/
+
+ Designed and developed a modern expense-sharing platform to manage group expenses, settlements, and balance reconciliation while maintaining complete transparency in financial calculations.
+
+ Engineered a robust CSV import and validation workflow capable of detecting duplicate transactions, invalid records, settlement anomalies, and currency inconsistencies without manual data modification.
+
+ Implemented multiple expense allocation strategies including Equal Split, Exact Split, and Percentage-Based Split, enabling flexible and accurate cost distribution across dynamic user groups.
+
+ Developed debt simplification and balance optimization workflows to generate clear "who owes whom" summaries while preserving complete expense traceability and audit visibility.
+
+ Built responsive financial dashboards and analytical visualizations using React and Recharts, providing real-time insights into spending patterns, settlements, and group balances.
+
+ Designed support for dynamic group membership lifecycles, ensuring users joining or leaving groups do not affect historical expense accuracy or balance calculations.
+
+ Created a reusable component-driven frontend architecture using React, Tailwind CSS, and modern state management practices to improve scalability, maintainability, and development efficiency.
+
+ Deployed the application on Vercel with production-ready configuration, responsive design, optimized performance, and cloud-hosted accessibility.
+
+Tech: React.js, Vite, Tailwind CSS, React Router DOM, Recharts, Framer Motion, Node.js, Express.js, SQLite, REST APIs, Git, GitHub, Vercelrcel
 
 ## 💼 Internships  
 

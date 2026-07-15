@@ -1,195 +1,62 @@
 <div align="center">
 
-# Hey, I'm Ruthwik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
-
-### Full Stack Developer · DevOps & Cloud Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:000000&height=280&section=header&text=Ruthwik%20Thotapelli&fontSize=50&fontColor=38bdf8&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20DevOps&descSize=18&descColor=94a3b8&descAlignY=58" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-ruthwik--thotapelli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthwik-thotapelli)
-&ensp;·&ensp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-ten-henna-l388c8l4pw.vercel.app/)
-&ensp;·&ensp;
-[![Gmail](https://img.shields.io/badge/-ruthwikthotapelli8-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ruthwikthotapelli8@gmail.com)
+<a href="https://linkedin.com/in/ruthwik-thotapelli"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
+<a href="https://portfolio-ten-henna-l388c8l4pw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/></a>
+<a href="mailto:ruthwikthotapelli8@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/></a>
+<a href="https://github.com/ruthwik-thotapelli"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/></a>
 
-<br/>
+<br/><br/>
 
-*B.Tech Information Technology · Lovely Professional University*  
-*Building scalable systems that solve real problems.*
-
-<br/>
-
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+Scalable+Cloud-Native+Systems;Architecting+Production-Ready+Applications;Automating+Zero-Downtime+Deployments" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-> **I design, build, and ship production-ready applications end-to-end** — from responsive React frontends to Node.js APIs, containerized with Docker, orchestrated on AWS ECS, and deployed through automated CI/CD pipelines. I don't just write code — I engineer solutions that are secure, scalable, and built to last.
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="55%" valign="top" style="border: none;">
 
-<br/>
+## 👨‍💻 About Me
 
-## ⚡ What I Work With
+**I engineer solutions, not just code.**  
+I specialize in building distributed systems, containerized architectures, and automated pipelines. I take ownership of the entire lifecycle — from responsive React frontends to robust Node.js APIs and scalable AWS infrastructure.
 
-<div align="center">
-<br/>
-
-**`LANGUAGES`**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**`FRONTEND`**
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**`BACKEND`**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)&nbsp;
-![REST](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-
-**`DATABASES`**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**`DEVOPS · CLOUD · INFRASTRUCTURE`**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**`TOOLS`**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br/>
-</div>
-
----
-
-<br/>
-
-## 🏗️ Featured Projects
-
-<br/>
-
-<div align="center">
-
-### 🌉 TalentBridge
-
-**Secure Enterprise Full-Stack Hiring Platform**
-
-[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-2ea44f?style=for-the-badge)](https://talent-bridge-secure-enterprise-ful.vercel.app)&nbsp;&nbsp;
-[![Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/ruthwik-thotapelli/TalentBridge-Secure-Enterprise-Full-Stack-Hiring-Platform)
-
-</div>
-
-An enterprise hiring platform that centralizes job postings, candidate applications, and recruiter workflows — eliminating fragmented hiring processes.
-
-- **Role-Based Access Control** — JWT-secured RBAC for Admin, Recruiter, and Candidate with isolated access boundaries
-- **ATS Automation** — Resume screening and candidate evaluation workflows that automate shortlisting and accelerate the hiring lifecycle
-- **Scalable Architecture** — Modular RESTful services with Express.js enabling clean separation, efficient routing, and easy extensibility
-- **Optimized Data Layer** — MySQL models with efficient query structures ensuring consistency, reliable transactions, and fast retrieval
-
-`React.js` · `Node.js` · `Express.js` · `MySQL` · `JWT` · `REST APIs` · `Git`
-
----
-
-<br/>
-
-<div align="center">
-
-### ☁️ CloudForge
-
-**Production-Grade AWS DevOps CI/CD Infrastructure**
-
-[![Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/ruthwik-thotapelli/CloudForge-AWS-DevOps-CI-CD-Infrastructure-for-Secure-Deployments)&nbsp;&nbsp;
-[![Pipeline](https://img.shields.io/github/actions/workflow/status/ruthwik-thotapelli/CloudForge-AWS-DevOps-CI-CD-Infrastructure-for-Secure-Deployments/deploy.yml?style=for-the-badge&label=CI/CD&logo=githubactions)](https://github.com/ruthwik-thotapelli/CloudForge-AWS-DevOps-CI-CD-Infrastructure-for-Secure-Deployments/actions)
-
-</div>
-
-A cloud-native CI/CD platform that takes code from `git push` to live production on AWS in under 3 minutes — fully automated, zero manual intervention.
-
-- **Serverless Orchestration** — Containerized app on AWS ECS Fargate with zero infrastructure management overhead
-- **Automated Pipeline** — GitHub Actions → Docker Build → ECR Push → ECS Deploy with SHA-tagged immutable images
-- **High Availability** — ALB with health check gating, auto-scaling policies, and rolling zero-downtime deployments
-- **Observability** — CloudWatch monitoring, centralized logging, SNS alerting for end-to-end incident detection
-
-`AWS ECS` · `ECR` · `ALB` · `CloudWatch` · `Docker` · `GitHub Actions` · `IAM`
-
----
-
-<br/>
-
-<div align="center">
-
-### 💸 Shared Expense Manager
-
-**Intelligent Expense Reconciliation & Financial Transparency Platform**
-
-[![Live](https://img.shields.io/badge/▶_LIVE_DEMO-2ea44f?style=for-the-badge)](https://shared-expense-manager-xi.vercel.app/)&nbsp;&nbsp;
-[![Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github)](https://github.com/ruthwik-thotapelli/Shared-Expense-Manager)
-
-</div>
-
-A modern expense-sharing platform with automated reconciliation, anomaly detection, and real-time financial analytics.
-
-- **Smart CSV Import** — Anomaly detection system identifying duplicate transactions, invalid records, and settlement inconsistencies automatically
-- **Debt Simplification** — Optimized "who owes whom" settlement generation with full expense traceability and audit visibility
-- **Dynamic Groups** — Member join/leave event handling preserving historical integrity and preventing balance calculation errors
-- **Analytics Dashboards** — Interactive Recharts visualizations for spending trends, settlements, and individual/group balances
-
-`React.js` · `Vite` · `Tailwind CSS` · `Recharts` · `Framer Motion` · `Node.js` · `Express.js` · `SQLite`
-
-<br/>
-
----
-
-<br/>
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="100">
-<br/>
-<div align="center"><strong>JPMorgan<br/>Chase & Co.</strong></div>
-<br/>
-</td>
-<td>
-
-**Advanced Software Engineering** · Forage
-
-Built and enhanced microservices with **Spring Boot**, integrated **Apache Kafka** for real-time high-volume transaction streaming, designed RESTful APIs improving communication efficiency by **~30%**, and strengthened testing workflows with Maven reducing issue resolution time by **~25%**.
+- 🎓 **Education:** B.Tech Information Technology @ LPU
+- ☁️ **Focus:** Cloud Architecture (AWS), DevOps, Full Stack
+- ⚡ **Performance:** Solved 200+ DSA problems in C++
+- 🚀 **Mission:** Delivering high-impact, secure software that scales seamlessly.
 
 </td>
-</tr>
-<tr>
-<td>
-<br/>
-<div align="center"><strong>Common-<br/>wealth Bank</strong></div>
-<br/>
-</td>
-<td>
+<td width="45%" valign="top" style="border: none;">
 
-**Software Engineering** · Forage
+## 🛠️ Tech Arsenal
 
-Built backend services with **.NET & MongoDB**, developed responsive frontend components using **React & Redux**, performed comprehensive API testing with Postman reducing errors by **~20%**, and followed structured Git-based collaboration workflows.
+<br/>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-38bdf8?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-38bdf8?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-38bdf8?style=flat-square&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-38bdf8?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-38bdf8?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-38bdf8?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+<br/>
+
+![AWS](https://img.shields.io/badge/-AWS-0f172a?style=flat-square&logo=amazonwebservices&logoColor=38bdf8)
+![Docker](https://img.shields.io/badge/-Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-0f172a?style=flat-square&logo=githubactions&logoColor=38bdf8)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=38bdf8)
+
+<br/>
+
+![MySQL](https://img.shields.io/badge/-MySQL-38bdf8?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-38bdf8?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-38bdf8?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -201,38 +68,43 @@ Built backend services with **.NET & MongoDB**, developed responsive frontend co
 
 <br/>
 
-## 🏆 Achievements
-
-🥇 &ensp; **98.93 percentile** in Hitbullseye Aptitude Test — top-tier analytical & problem-solving ability
-
-🚀 &ensp; Designed, deployed & shipped **multiple production full-stack applications** with real users
-
-☁️ &ensp; Built **cloud-native CI/CD pipelines on AWS** — Docker, ECS Fargate, ECR, GitHub Actions
-
-💡 &ensp; Solved **200+ DSA problems in C++** — strong algorithmic thinking & competitive coding
-
-🐳 &ensp; Hands-on **Docker containerization & Kubernetes orchestration** across dev and production
-
-<br/>
-
----
-
-<br/>
-
-## 📊 GitHub Stats
+## 🚀 Featured Engineering
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=ruthwik-thotapelli&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats"/>
-<img width="390" src="https://streak-stats.demolab.com?user=ruthwik-thotapelli&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+<a href="https://talent-bridge-secure-enterprise-ful.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&text=TalentBridge&fontSize=35&fontColor=38bdf8&desc=Secure%20Enterprise%20Full-Stack%20Hiring%20Platform&descSize=14&descColor=94a3b8" width="100%"/>
+</a>
 
-<br/>
+**`React.js` `Node.js` `Express` `MySQL` `JWT Auth`**
 
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthwik-thotapelli&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Top Languages"/>
+Architected a secure end-to-end recruitment platform with Role-Based Access Control (RBAC). Implemented ATS-inspired automated resume screening, built modular RESTful microservices, and designed optimized relational data models for high-performance retrieval.
+
+[**View Live Demo**](https://talent-bridge-secure-enterprise-ful.vercel.app) &nbsp;|&nbsp; [**Source Code**](https://github.com/ruthwik-thotapelli/TalentBridge-Secure-Enterprise-Full-Stack-Hiring-Platform)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruthwik-thotapelli&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph"/>
+<a href="https://github.com/ruthwik-thotapelli/CloudForge-AWS-DevOps-CI-CD-Infrastructure-for-Secure-Deployments">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&text=CloudForge&fontSize=35&fontColor=38bdf8&desc=Production-Grade%20AWS%20DevOps%20CI/CD%20Infrastructure&descSize=14&descColor=94a3b8" width="100%"/>
+</a>
+
+**`AWS ECS` `ECR` `Docker` `GitHub Actions` `ALB` `CloudWatch`**
+
+Engineered a serverless cloud-native CI/CD platform on AWS. Built a fully automated pipeline that takes code from `git push` to live production with zero-downtime rolling deployments, immutable SHA-tagged images, and built-in rollback safety.
+
+[**View Architecture & Code**](https://github.com/ruthwik-thotapelli/CloudForge-AWS-DevOps-CI-CD-Infrastructure-for-Secure-Deployments)
+
+<br/><br/>
+
+<a href="https://shared-expense-manager-xi.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&text=Shared%20Expense%20Manager&fontSize=35&fontColor=38bdf8&desc=Intelligent%20Expense%20Reconciliation%20%26%20Financial%20Analytics&descSize=14&descColor=94a3b8" width="100%"/>
+</a>
+
+**`React.js` `Tailwind CSS` `Recharts` `Node.js` `SQLite`**
+
+Developed an intelligent expense platform with automated CSV anomaly detection, debt simplification algorithms ("who owes whom"), dynamic group membership handling, and interactive financial dashboards using Recharts.
+
+[**View Live Demo**](https://shared-expense-manager-xi.vercel.app/) &nbsp;|&nbsp; [**Source Code**](https://github.com/ruthwik-thotapelli/Shared-Expense-Manager)
 
 </div>
 
@@ -240,14 +112,61 @@ Built backend services with **.NET & MongoDB**, developed responsive frontend co
 
 ---
 
+<br/>
+
+## 💼 Professional Experience
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none; padding: 10px;">
+
+### 🏦 JPMorgan Chase & Co.
+**Advanced Software Engineering (Forage)**
+
+- Enhanced system modularity using **Spring Boot** microservices
+- Integrated **Apache Kafka** for real-time data streaming
+- Architected RESTful APIs, improving efficiency by **~30%**
+- Strengthened debugging workflows using Maven
+
+</td>
+<td width="50%" valign="top" style="border: none; padding: 10px;">
+
+### 🏦 Commonwealth Bank
+**Software Engineering (Forage)**
+
+- Built robust backend functionalities with **.NET & MongoDB**
+- Developed highly responsive UIs using **React & Redux**
+- Engineered API testing suites in Postman, reducing errors by **~20%**
+- Streamlined collaboration using structured Git version control
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 📈 Impact & Analytics
+
 <div align="center">
-<br/>
 
-*"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ruthwik-thotapelli&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruthwik-thotapelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats"/>
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com?user=ruthwik-thotapelli&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&currStreakNum=94a3b8&sideNums=94a3b8" alt="GitHub Streak"/>
 
 <br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruthwik-thotapelli&theme=github-compact&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=0f172a" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:000000&height=120&section=footer" width="100%"/>
+
 </div>

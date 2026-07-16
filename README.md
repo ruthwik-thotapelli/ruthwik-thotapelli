@@ -26,116 +26,186 @@ I specialize in **React.js, Node.js, and AWS-based DevOps**, with hands-on exper
 
 ## At a Glance
 
-| | | |
-|:---:|:---:|:---:|
-| **3** Production Apps Shipped | **98.93%ile** Hitbullseye Aptitude | **200+** DSA Problems Solved |
-| **1** Full AWS CI/CD Pipeline | **2** Industry Simulations | **RBAC Systems** Built From Scratch |
+<div align="center">
+
+| 03 | 98.93%ile | 200+ | 01 |
+|:---:|:---:|:---:|:---:|
+| Production apps shipped | Hitbullseye aptitude score | DSA problems solved | Full AWS CI/CD pipeline built |
+
+</div>
 
 ---
 
-## Tech Stack
+## Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+`C` `C++` `Java` `JavaScript`
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+`React.js` `Tailwind CSS` `HTML5` `CSS3`
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+`Node.js` `Express.js` `JWT` `REST APIs`
+
+</td>
+<td valign="top" width="50%">
 
 **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+`MySQL` `MongoDB` `PostgreSQL` `SQLite`
 
 **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+`AWS (ECS · ECR · ALB · CloudWatch)` `Docker` `Kubernetes` `GitHub Actions`
+
+**Tooling**
+
+`Git` `GitHub` `Postman` `Vercel`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>View skill proficiency breakdown</b></summary>
+<br>
+
+| Domain | Skills | Proficiency |
+|---|---|:---:|
+| Frontend Engineering | React.js, Tailwind CSS, Responsive UI | ●●●●○ |
+| Backend & APIs | Node.js, Express.js, REST, JWT Auth | ●●●●● |
+| Databases | MySQL, MongoDB, PostgreSQL | ●●●●○ |
+| Cloud (AWS) | ECS Fargate, ECR, ALB, CloudWatch, SNS | ●●●●○ |
+| DevOps & CI/CD | Docker, GitHub Actions, Kubernetes | ●●●○○ |
+| Core CS | Data Structures & Algorithms (C++) | ●●●●● |
+
+</details>
 
 ---
 
 ## Featured Projects
 
-### TalentBridge — Secure Enterprise Hiring Platform
-**[Live Demo →](https://talent-bridge-secure-enterprise-ful.vercel.app)**
+<table>
+<tr>
+<td width="100%">
+
+### 🔹 TalentBridge
+**Secure Enterprise Hiring Platform** &nbsp;·&nbsp; [`Live Demo`](https://talent-bridge-secure-enterprise-ful.vercel.app) &nbsp;·&nbsp; `LIVE`
 
 A centralized recruitment platform solving fragmented hiring workflows through isolated, role-based access and automated candidate screening.
 
+| | |
+|---|---|
+| **Problem** | Hiring pipelines break down when access isn't isolated and screening is manual |
+| **Solution** | Role-locked recruitment system with automated candidate evaluation |
+| **Impact** | Isolated access across 3 user roles · automated shortlisting · optimized query performance |
+
+**Highlights**
 - Designed **RBAC with JWT authentication** — fully isolated Admin, Recruiter, and Candidate permissions
 - Built **modular REST APIs** in Node.js/Express for a maintainable, extensible backend
 - Developed an **ATS-inspired screening engine** that automates shortlisting and cuts manual recruiter effort
 - Optimized **MySQL schema and queries** for consistent, high-performance data retrieval
 
-**Stack:** React.js · Node.js · Express.js · MySQL · JWT · REST APIs
+**Stack:** `React.js` `Node.js` `Express.js` `MySQL` `JWT` `REST APIs`
 
----
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-### CloudForge — Production-Grade AWS CI/CD Infrastructure
+### 🔹 CloudForge
+**Production-Grade AWS CI/CD Infrastructure** &nbsp;·&nbsp; `DEPLOYED`
 
 A fully automated, cloud-native deployment pipeline built to eliminate manual releases and configuration drift.
 
+| | |
+|---|---|
+| **Problem** | Manual deploys don't scale, and configuration drift kills reliability |
+| **Solution** | Fully automated, cloud-native CI/CD pipeline on AWS |
+| **Impact** | Zero-touch deployments · auto-scaling under load · real-time incident alerting |
+
+**Highlights**
 - Deployed containerized services on **AWS ECS Fargate** — serverless orchestration, zero infra overhead
 - Built an end-to-end pipeline: **GitHub Actions → Docker → ECR → ECS**
 - Configured **auto-scaling, ALB, and health checks** for high availability under variable load
 - Set up **CloudWatch monitoring and SNS alerts** for real-time observability and faster incident response
 
-**Stack:** AWS (ECS · ECR · ALB · CloudWatch · SNS · IAM) · Docker · GitHub Actions · CI/CD
+**Stack:** `AWS ECS` `ECR` `ALB` `CloudWatch` `SNS` `Docker` `GitHub Actions`
 
----
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-### Shared Expense Manager — Financial Reconciliation Platform
-**[Live Demo →](https://shared-expense-manager-xi.vercel.app/)**
+### 🔹 Shared Expense Manager
+**Financial Reconciliation Platform** &nbsp;·&nbsp; [`Live Demo`](https://shared-expense-manager-xi.vercel.app/) &nbsp;·&nbsp; `LIVE`
 
 A group expense-sharing platform with automated reconciliation and full financial transparency.
 
+| | |
+|---|---|
+| **Problem** | Group expenses lose transparency without automated auditing |
+| **Solution** | End-to-end reconciliation, simplification, and visualization of shared finances |
+| **Impact** | Automated anomaly detection · optimal debt settlement · live financial dashboards |
+
+**Highlights**
 - Built a **CSV anomaly detection engine** to flag duplicates, invalid records, and currency mismatches
 - Implemented **debt-simplification algorithms** to generate optimal "who owes whom" settlements
 - Engineered **dynamic group membership handling** without corrupting historical balance data
 - Developed **live analytics dashboards** using React and Recharts for spending and settlement trends
 
-**Stack:** React.js · Vite · Tailwind CSS · Recharts · Node.js · Express.js · SQLite
+**Stack:** `React.js` `Vite` `Node.js` `Express.js` `SQLite` `Recharts`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Industry Experience
 
-**JPMorgan Chase & Co.** — *Advanced Software Engineering, Forage*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**JPMorgan Chase & Co.**
+*Advanced Software Engineering — Forage*
+
 - Built microservices with Spring Boot, improving system modularity and scalability
 - Integrated Apache Kafka for real-time streaming of high-volume transactions
-- Designed REST APIs that improved backend communication efficiency by ~30%
-- Reduced issue resolution time by ~25% through improved debugging and testing workflows
+- Designed REST APIs, improving backend communication efficiency **~30%**
+- Reduced issue resolution time **~25%** through improved debugging workflows
 
-**Commonwealth Bank** — *Software Engineering, Forage*
+</td>
+<td width="50%" valign="top">
+
+**Commonwealth Bank**
+*Software Engineering — Forage*
+
 - Built backend services using .NET and MongoDB for efficient data handling
 - Developed responsive frontend components with React and Redux
-- Performed API testing via Postman, reducing API errors by ~20%
+- Performed API testing via Postman, reducing API errors **~20%**
 - Followed structured Git workflows for clean team collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Achievements
 
-- Achieved **98.93 percentile** on the Hitbullseye Aptitude Test
-- Solved **200+ DSA problems** in C++, strengthening core algorithmic thinking
-- Designed and deployed a **complete AWS CI/CD pipeline** from scratch
-- Shipped **3 full-stack production applications**, each with a live, working demo
+- 🏆 Achieved **98.93 percentile** on the Hitbullseye Aptitude Test
+- 🧠 Solved **200+ DSA problems** in C++, strengthening core algorithmic thinking
+- ☁️ Designed and deployed a **complete AWS CI/CD pipeline** from scratch
+- 🚀 Shipped **3 full-stack production applications**, each with a live, working demo
 
 ---
 

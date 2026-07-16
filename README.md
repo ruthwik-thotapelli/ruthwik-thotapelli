@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2DD4BF&height=160&section=header&text=Ruthwik%20Thotapelli&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2DD4BF&height=160&section=header&text=Ruthwik%20Thotapelli&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20-%20Cloud%20and%20DevOps%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 **B.Tech Information Technology — Lovely Professional University**
 
